@@ -226,5 +226,3 @@ https://neon-retake-mouth.ngrok-free.dev
    - 🧠 **Gemini AI Concept Explanation**
 
 ---
-
-Developed with ❤️ using **PyTorch**, **FastAPI**, **SymPy**, **Matplotlib**, and **KaTeX**.
